@@ -1,0 +1,144 @@
+@charset "UTF-8";
+body {
+	padding: 0px;
+	background-attachment: scroll;
+	background-repeat: no-repeat;
+	background-position: center center;
+	margin-top: 10px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	background-image: url(imagens/fundo-compl-2.png);
+}
+#estrutura #painel #apresenta {
+}
+#estrutura {
+	height: 700px;
+	width: 1000px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#estrutura #superior {
+	height: 250px;
+	color: #FFF;
+}
+#estrutura #painel {
+	height: 400px;
+	width: 680px;
+	color: #FFF;
+	margin: 0px;
+}
+#estrutura #painel2 {
+	height: 300px;
+	width: 680px;
+	color: #FFF;
+	margin: 0px;
+	padding: 0px;
+}
+#estrutura #superior #logo {
+	height: 170px;
+	color: #FFF;
+	width: 360px;
+	margin-top: 30px;
+}
+#estrutura #superior #menu {
+	color: #FFF;
+	width: 475px;
+	margin-left: 375px;
+	margin-top: -35px;
+}
+#estrutura #superior #menu a {
+	font-family: "Century Gothic";
+	font-size: 23px;
+	text-decoration: none;
+	color: #FFF;
+	padding-top: 5px;
+	padding-right: 20px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+}
+#estrutura #superior #menu a:hover {
+	font-family: "Century Gothic";
+	font-size: 23px;
+	text-decoration: none;
+	color: #FFF;
+	background-color: #F00;
+	padding-top: 5px;
+	padding-right: 20px;
+	padding-bottom: 5px;
+	padding-left: 20px;
+}
+#estrutura #rodape {
+	font-family: "Century Gothic";
+	font-size: 14px;
+	text-align: center;
+	color: #FFF;
+	font-style: italic;
+	margin: 0px;
+	background-attachment: fixed;
+}
+.acertorodape {
+	padding-top: 100px;
+}
+.painel3 {
+	font-family: "Century Gothic";
+	text-align: center;
+	font-style: italic;
+	font-size: 13px;
+	line-height: 16px;
+	height: 0px;
+	margin: 0px;
+	padding-top: 25px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	text-decoration: none;
+	color: #FFF;
+}
+#estrutura #painel #apresenta #painel3 {
+	text-decoration: none;
+}
+#estrutura #painel #apresenta #textsupportr {
+	height: 200px;
+	font-family: "Century Gothic";
+	font-size: 12px;
+	text-align: center;
+	font-style: italic;
+	line-height: 13px;
+	color: #FFF;
+	width: 670px;
+	padding-top: 200px;
+	text-decoration: none;
+}
+.titulovermelho {
+	color: #F00;
+	font-size: 15px;
+	font-weight: normal;
+}
+#estrutura #painel #wowslider1 {
+	height: 300px;
+	width: 680px;
+	background-color: #FFF;
+	padding-top: 40px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}
+.clickaqui {
+	font-family: "Century Gothic";
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	color: #FFF;
+	font-style: italic;
+	padding-top: 5px;
+}
+.painelwowoslider {
+	height: 300px;
+	width: 680px;
+}
+#estrutura #painel #apresenta {
+	height: 300px;
+}
